@@ -8,21 +8,9 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=funterminal" alt="funterminal" /></a>
 </p>
 
-![Terminal Banner](https://img.shields.io/badge/Welcome-to-my-terminal-00FF00?style=for-the-badge&logo=gnu-bash)
-
 Hi! I'm **Muhammad Rayyan Rahman**, a **Sixth-Grade Student**, **entirely solo Linux programmer**, and **terminal enthusiast**. I was born on **September 5, 2012** in **Casablanca, Morocco**, raised in **Riyadh, Saudi Arabia**, and currently reside in **Dubai, UAE**.  
 
 I started coding on **May 10, 2024**, and since then, I have been creating **terminal-first, lightweight, efficient, and fun tools** that follow the **Unix philosophy**. I enjoy exploring **Linux system programming, security, and software design**, while making the terminal a **playground of creativity and productivity**.
-
----
-
-## 🌟 Live Terminal Demo
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aCSPqXE5C6T8tBC/giphy.gif" alt="Terminal Demo" width="600"/>
-</p>
-
-> This is a demo of **Termlist** in action — a terminal task manager showing tasks, priorities, and tags. Every tool I make has **clean terminal output, efficiency, and usability** in mind.
 
 ---
 
