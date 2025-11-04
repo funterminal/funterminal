@@ -70,7 +70,6 @@ I started coding on **May 10, 2024**, and since then, I have been creating **ter
 
 ### Admin Suite
 - **PassDroid** – Secure password storage with encryption, policies, and recovery codes.
-- **Obvious** – Adds command confirmation, protection, and time-based blocks.
 
 ### Funside Suite
 - **Cowsay++** – Terminal fun with animals, vehicles, and customization.
